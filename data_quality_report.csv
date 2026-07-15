@@ -1,0 +1,13 @@
+﻿field,dtype,rows,missing_count,missing_rate_pct,abnormal_count
+tpep_pickup_datetime,datetime64[us],3724889,0,0.0,0
+tpep_dropoff_datetime,datetime64[us],3724889,0,0.0,0
+passenger_count,float64,3724889,1088058,29.2105,1102852
+trip_distance,float64,3724889,0,0.0,158904
+PULocationID,int32,3724889,0,0.0,0
+DOLocationID,int32,3724889,0,0.0,0
+payment_type,int64,3724889,0,0.0,0
+fare_amount,float64,3724889,0,0.0,39522
+tip_amount,float64,3724889,0,0.0,0
+total_amount,float64,3724889,0,0.0,39986
+trip_duration,business_rule,3724889,0,0.0,45070
+pickup_time,business_rule,3724889,0,0.0,7
